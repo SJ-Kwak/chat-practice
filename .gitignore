@@ -69,3 +69,4 @@ Info.plist
 Podfile.lock
 .xcode.env
 ios/chat.xcodeproj/xcshareddata
+GoogleService-Info.plist
